@@ -1,5 +1,5 @@
-ab	Es wird ab dem 10 Januar verkauft.	Dativ		from	temporal	It will be sold from the 10th of January.
-aus	Die Süßigkeiten kommen aus dem Laden.	Dativ		out / from	spacial	The sweets come from the shop.
+ab	Es wird ab dem 10 Januar verkauft.	Dativ	zeitlich	from		It will be sold from the 10th of January.
+aus	Die Süßigkeiten kommen aus dem Laden.	Dativ	räumlich	out / from		The sweets come from the shop.
 bei	Ich warte bei dem Kino.	Dativ		at		I am waiting at the cinema.
 entgegen	Entgegen meinem Rat ist er abgereist.	Dativ	vor- oder nachgestellt	contrary to		Contrary to my advice, he left.
 entsprechend	Sie bekommen die Zahlung entsprechend dem Vertrag.	Dativ	vor- oder nachgestellt	according / corresponding to		You will receive payment according to the contract.
@@ -7,8 +7,8 @@ gegenüber	Meine Wohnung ist gegenüber dem Kneipe.	Dativ	vor- oder nachgestellt
 gemäß	Gemäß den Regeln ist dass nicht erlaubt.	Dativ	vor- oder nachgestellt	according to / as per		According to the rules, that is not allowed.
 laut	Frankfurt ist 30 Kilometer entfernt, laut dem Schild.	Dativ	auch mit Genitiv	according to		Frankfurt is 30 km away, according to the sign.
 mit	Ich lerne mit diesem Buch.	Dativ		with		I study with this book.
-nach	Sie besucht mich nach dem Mittagessen.	Dativ		after	temporal	She visits me after lunch.
-seit	Wir sind seit letztem Jahr geöffnet.	Dativ		since	time	We have been open since last year.
+nach	Sie besucht mich nach dem Mittagessen.	Dativ	zeitlich	after		She visits me after lunch.
+seit	Wir sind seit letztem Jahr geöffnet.	Dativ	zeitlich	since		We have been open since last year.
 trotz	Trotz dem Wetter, sind wir zu Fuß gegangen.	Dativ	schriftsprachlich + Genitiv	despite		Despite the weather, we walked.
 von	Sie ist die Königin von Dänemark.	Dativ		from / of		She is the queen of Denmark.
 während	Während dem Krieg war Essen schwierig zu finden.	Dativ	schriftsprachlich + Genitiv	during		During the war, food was difficult to find.
