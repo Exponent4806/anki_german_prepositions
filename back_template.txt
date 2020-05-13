@@ -1,0 +1,10 @@
+{{FrontSide}}
+
+<hr id=answer>
+
+{{en_word}}
+<br/><br/>
+{{de_case}} &ndash; <i>{{de_sentence}}</i>
+<br/><br/>
+
+<small>{{notes}}</small>
