@@ -25,7 +25,7 @@
 89401847878	ohne	Ohne die Kirschen ist es keinen Schwarzwaldkuchen!	Akkusativ		without	Without the cherries it’s not a black forest gateau!
 89401847879	um	Der Geschäft ist um die Ecke.	Akkusativ		around / at (time)	The shop is around the corner.
 89401847880	wider	Die Ernte ist wider alles Erwarten gut gewesen.	Akkusativ		against / contrary to	The harvest was good, contrary to all expectations.
-89401847881	an	Sie fährt an das Schloss. / Sie ist am Schloss.	Akkusativ / Dativ		at / to	She is driving to the castle. / She is at the castle.
+89401847881	an	Sie fährt an das geschlossene Tor! / Sie ist am Tor.	Akkusativ / Dativ		at / to	She is driving at the closed gate! / She is at the Tor.
 89401847882	auf	Sie klettert auf den Anhänger. / Sie sitzt auf dem Anhänger.	Akkusativ / Dativ		on / onto	She climbs onto the trailer. / She sits on the trailer.
 89401847883	hinter	Er geht hinter das Restaurant. / Er steht hinter dem Restaurant.	Akkusativ / Dativ		behind	He goes behind the restaurant. / He is standing behind the restaurant.
 89401847884	in	Ich fahre in die Stadt. / Ich bin in der Stadt.	Akkusativ / Dativ		in / into	I travel into town. / I am in town.
@@ -40,7 +40,7 @@
 89401847893	anlässlich	Wir machten es anlässlich meines Geburtstags.	Genitiv		on the occasion of / to celebrate	We did it to celebrate my birthday.
 89401847894	anstelle	Anstelle des Gewinns zahlen wir eine Entschädigung aus.	Genitiv		in lieu of	In lieu of profit, we are paying out compensation.
 89401847895	statt / anstatt	Anstatt des Bargelds habe ich einen Scheck erhalten.	Genitiv		instead of	Instead of cash, I received a cheque.
-89401847896	aufgrund	Aufgrund des Silvesters sind wir geschlossen.	Genitiv		due to	Due to New Year’s Eve, we are closed.
+89401847896	aufgrund	Aufgrund des Einbruchs sind wir geschlossen.	Genitiv		due to	Due to the break-in, we are closed.
 89401847897	außerhalb	Der Bahnhof liegt außerhalb des Dorfs.	Genitiv		outside	The train station is outside the village.
 89401847898	beidseits / beiderseits	Das Land Ecuador liegt beiderseits des Äquators.	Genitiv		on both sides	The country of Ecuador lies on both sides of the equator.
 89401847899	bezüglich	Wir prüfen die Möglichkeit bezüglich des Vertrag(e)s.	Genitiv		with respect to	We are examining the possibility with respect to the contract.
