@@ -25,15 +25,15 @@
 89401847878	ohne	Ohne die Kirschen ist es keinen Schwarzwaldkuchen!	Akkusativ		without	Without the cherries it’s not a black forest gateau!
 89401847879	um	Der Geschäft ist um die Ecke.	Akkusativ		around / at (time)	The shop is around the corner.
 89401847880	wider	Die Ernte ist wider alles Erwarten gut gewesen.	Akkusativ		against / contrary to	The harvest was good, contrary to all expectations.
-89401847881	an	Sie fährt zum Schloss. / Sie ist am Schloss.	Dativ / Akkusativ		at / to	She is driving to the castle. / She is at the castle.
-89401847882	auf	Sie klettert auf den Anhänger. / Sie sitzt auf dem Anhänger.	Dativ / Akkusativ		on / onto	She climbs onto the trailer. / She sits on the trailer.
-89401847883	hinter	Er geht hinter das Restaurant. / Er steht hinter dem Restaurant.	Dativ / Akkusativ		behind	He goes behind the restaurant. / He is standing behind the restaurant.
-89401847884	in	Ich fahre in die Stadt. / Ich bin in der Stadt.	Dativ / Akkusativ		in / into	I travel into town. / I am in town.
-89401847885	neben	Wir laufen neben den Fluss. / Wir sitzen neben dem Fluss.	Dativ / Akkusativ		next to / beside	We run next to the river. / We sit next to the river.
-89401847886	über	Sie hing den Spiegel über das Abwaschbecken. / Der Spiegel hängt über dem Abwaschbecken.	Dativ / Akkusativ		over / above	She hung the mirror over the sink. / The mirror is hanging above the sink.
-89401847887	unter	Der Troll spaziert unter die Brücke. / Der Troll wohnt unter der Brücke.	Dativ / Akkusativ		under	The troll walks under the bridge. / The troll lives under the bridge.
-89401847888	vor	Wir gehen vor das Kino. / Wir stehen vor dem Kino.	Dativ / Akkusativ		in front of / before	We walk in front of the cinema. / We are standing in front of the cinema.
-89401847889	zwischen	Wir gehen zwischen die Gebäude. / Wir stehen zwischen den Gebäuden.	Dativ / Akkusativ		between	We walk between the buildings. / We stand between the buildings.
+89401847881	an	Sie fährt an das Schloss. / Sie ist am Schloss.	Akkusativ / Dativ		at / to	She is driving to the castle. / She is at the castle.
+89401847882	auf	Sie klettert auf den Anhänger. / Sie sitzt auf dem Anhänger.	Akkusativ / Dativ		on / onto	She climbs onto the trailer. / She sits on the trailer.
+89401847883	hinter	Er geht hinter das Restaurant. / Er steht hinter dem Restaurant.	Akkusativ / Dativ		behind	He goes behind the restaurant. / He is standing behind the restaurant.
+89401847884	in	Ich fahre in die Stadt. / Ich bin in der Stadt.	Akkusativ / Dativ		in / into	I travel into town. / I am in town.
+89401847885	neben	Wir laufen neben den Fluss. / Wir sitzen neben dem Fluss.	Akkusativ / Dativ		next to / beside	We run next to the river. / We sit next to the river.
+89401847886	über	Sie hing den Spiegel über das Abwaschbecken. / Der Spiegel hängt über dem Abwaschbecken.	Akkusativ / Dativ		over / above	She hung the mirror over the sink. / The mirror is hanging above the sink.
+89401847887	unter	Der Troll spaziert unter die Brücke. / Der Troll wohnt unter der Brücke.	Akkusativ / Dativ		under	The troll walks under the bridge. / The troll lives under the bridge.
+89401847888	vor	Wir gehen vor das Kino. / Wir stehen vor dem Kino.	Akkusativ / Dativ		in front of / before	We walk in front of the cinema. / We are standing in front of the cinema.
+89401847889	zwischen	Wir gehen zwischen die Gebäude. / Wir stehen zwischen den Gebäuden.	Akkusativ / Dativ		between	We walk between the buildings. / We stand between the buildings.
 89401847890	abseits	Er schlief abseits des Feuers.	Genitiv		away from	He slept away from the fire.
 89401847891	angesichts	Angesichts des Zustands, ist es unwahrscheinlich.	Genitiv		considering / given	Given the state of affairs, it is unlikely.
 89401847892	anhand	Anhand der Unterlagen sehe ich, dass ich eine Zurückzahlung bekomme.	Genitiv		with the help of / based on	Based on the documents, I see that I will get a refund.
